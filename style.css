@@ -28,3 +28,22 @@
     height: 200px;
     margin-bottom: 10px;
 }
+.h-brush {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+p {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+.span1 {
+    color: blue;
+    font-weight: bold;
+}
+.frames {
+    color: white;
+    background-color: rgb(255, 111, 111);
+    margin-bottom: 15px;
+}
