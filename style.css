@@ -3,13 +3,28 @@
     box-sizing: border-box;
 }
 .container {
-    background-image: url("pattern.jpeg");
+    background-image: url("/images/pattern.jpeg");
     margin-top: 50px;
     margin-bottom: 30px;
+    margin-left: 10px;
     display: flex;
     justify-content: center;
+    width: 1900px;
+    height: 110px;
 }
-.title{
-    font-size: 70px;
-    color: rgb(235, 235, 19);
+.title {
+    font-size: 80px;
+    color: rgba(235, 235, 19, 0.795);
+    padding: 5px;
+}
+.brush {
+    font-size: 30px;
+    color: white;
+    background-color: rgb(82, 240, 179);
+    margin-bottom: 20px;
+}
+.img1 {
+    width: 220px;
+    height: 200px;
+    margin-bottom: 10px;
 }
