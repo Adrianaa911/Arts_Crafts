@@ -1,5 +1,15 @@
-
 * {
     margin: 0;
     box-sizing: border-box;
+}
+.container {
+    background-image: url("pattern.jpeg");
+    margin-top: 50px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.title{
+    font-size: 70px;
+    color: rgb(235, 235, 19);
 }
