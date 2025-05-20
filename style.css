@@ -48,3 +48,41 @@ p {
     margin-bottom: 15px;
     font-size: 30px;
 }
+.img2 {
+width: 220px;
+height: 200px;
+margin-bottom: 10px;
+}
+.art-frames {
+    color: black;
+    font-size: 18px;
+    margin-bottom: 13px;
+    font-weight: bold;
+}
+.span2 {
+    color: blue;
+    font-weight: bold;
+}
+
+.paint {
+    font-size: 30px;
+    color: white;
+    background-color: rgb(54, 154, 236);
+    margin-bottom: 20px;
+}
+.img3 {
+    width: 220px;
+    height: 200px;
+    margin-bottom: 10px;
+    }
+
+    .clean {
+        color: black;
+        font-size: 18px;
+        margin-bottom: 15px;
+        font-weight: bold;
+    }
+    .span3 {
+        color: blue;
+        font-weight: bold;
+    }
